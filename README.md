@@ -4,14 +4,14 @@
 This project implements a Seizure Detection System using Hyperdimensional Computing (HDC) to analyze EEG signals. The system leverages multiple feature extraction techniques, including Local Binary Pattern (LBP), Fourier Transform, and Wavelet Transform, to enhance signal processing and improve classification accuracy.
 
 ## Comparative study of feature extraction methods:
-LBP (93% accuracy)
-Fourier Transform (84% accuracy)
-Wavelet Transform (80% accuracy)
+- LBP (93% accuracy)
+- Fourier Transform (84% accuracy)
+- Wavelet Transform (80% accuracy)
 
 ## Feature Extraction Methods:
-LBP (Local Binary Pattern): Achieved the highest accuracy (93%) by capturing spatial patterns in EEG signals.
-Fourier Transform: Provided frequency-domain analysis with an accuracy of 84%.
-Wavelet Transform: Extracted time-frequency features but resulted in a lower accuracy (80%).
+- LBP (Local Binary Pattern): Achieved the highest accuracy (93%) by capturing spatial patterns in EEG signals.
+- Fourier Transform: Provided frequency-domain analysis with an accuracy of 84%.
+- Wavelet Transform: Extracted time-frequency features but resulted in a lower accuracy (80%).
 
 ## How It Works
 1. Preprocess EEG signals to remove noise and standardize input.
